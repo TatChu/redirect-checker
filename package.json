@@ -1,0 +1,14 @@
+{
+  "name": "check-redirects",
+  "version": "1.0.0",
+  "description": "Determines if a given website appropriately redirects a collection of relative URLs.",
+  "main": "index.js",
+  "scripts": {
+    "check": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  }
+}
