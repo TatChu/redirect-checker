@@ -1,4 +1,4 @@
-# An nodejs utility to check redirect
+# Redirect checker with Nodejs
 
 This project was forked from https://github.com/ansipes/redirect-checker
 
@@ -26,5 +26,5 @@ The CSV should look like this
 
 ## Run the command
 ```bash
-npm run check https://www.basedomain.com/ path/to/your.csv
+node index.js https://www.basedomain.com/ path/to/your.csv
 ```
